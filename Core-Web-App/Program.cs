@@ -11,6 +11,7 @@ namespace Core_Web_App
 {
     public class Program
     {
+        // Entry Method
         public static void Main(string[] args)
         {
             CreateHostBuilder(args).Build().Run();
